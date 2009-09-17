@@ -1,5 +1,5 @@
 Name: koffice-l10n-pl
-Version: 2.0.2
+Version: 2.0.82
 Release: %mkrel 1
 Summary: Language files for KOffice Polish
 Group: System/Internationalization
